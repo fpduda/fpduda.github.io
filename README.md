@@ -16,7 +16,7 @@ Mais do que obter respostas, o objetivo é estimular a compreensão dos fenômen
 
 Explore a influência da geometria sobre os momentos de inércia, as tensões de flexão e a transmissão da força cortante em vigas de perfil I. O laboratório inclui fundamentação teórica, visualizações interativas e questões para reflexão.
 
-**[Acessar o Laboratório 1](https://fpduda.github.io/)**
+**[Acessar o Laboratório 1](https://fpduda.github.io/perfil-i.html)**
 
 Novos laboratórios serão acrescentados progressivamente.
 
