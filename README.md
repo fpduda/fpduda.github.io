@@ -2,23 +2,25 @@
 
 **Fernando Duda — Universidade Federal do Rio de Janeiro (UFRJ)**
 
-Bem-vindos!
+Este projeto reúne materiais didáticos interativos desenvolvidos para complementar o ensino de Mecânica dos Sólidos.
 
-Este espaço reúne laboratórios virtuais desenvolvidos para apoiar o ensino e a aprendizagem de Mecânica dos Sólidos.
+Os laboratórios permitem explorar conceitos, visualizar campos de tensões e deslocamentos, investigar a influência da geometria e dos carregamentos e relacionar os resultados com sua fundamentação teórica.
 
-A proposta é complementar as aulas e os materiais tradicionais com ferramentas interativas que permitam explorar problemas, visualizar campos de tensões e deformações, investigar a influência da geometria e dos carregamentos e relacionar os resultados numéricos com sua fundamentação teórica.
-
-Mais do que obter respostas, o objetivo é estimular a compreensão dos fenômenos mecânicos, a formulação de hipóteses e a interpretação crítica dos resultados.
+A proposta é estimular a compreensão dos fenômenos mecânicos por meio da experimentação, da formulação de hipóteses e da interpretação crítica dos resultados.
 
 ## Laboratórios disponíveis
 
-**Laboratório 1 — Por que o perfil I é tão eficiente?**
+### Laboratório 1 — Vigas de perfil I
 
-Explore a influência da geometria sobre os momentos de inércia, as tensões de flexão e a transmissão da força cortante em vigas de perfil I. O laboratório inclui fundamentação teórica, visualizações interativas e questões para reflexão.
+Investigue a influência da geometria sobre os momentos de inércia, as tensões normais de flexão e as tensões cisalhantes associadas ao esforço cortante.
 
-**[Acessar o Laboratório 1](https://fpduda.github.io/perfil-i.html)**
+[Acessar Laboratório 1](https://fpduda.github.io/perfil-i.html)
 
-Novos laboratórios serão acrescentados progressivamente.
+### Laboratório 2 — Das tensões aos deslocamentos
+
+Explore como os campos tridimensionais de deslocamentos podem ser obtidos a partir de soluções de tensões em problemas de esforço normal, torção circular e flexão pura, identificando suas relações com a teoria clássica de barras e vigas.
+
+[Acessar Laboratório 2](https://fpduda.github.io/deslocamentos.html)
 
 ---
 
