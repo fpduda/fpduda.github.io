@@ -1,64 +1,85 @@
-# Laboratórios Interativos de Mecânica dos Sólidos
+# Mecânica dos Sólidos — Estudos Interativos
 
-**Fernando Pereira Duda**
+**Fernando Pereira Duda**  
 **Universidade Federal do Rio de Janeiro (UFRJ)**
 
-Este repositório reúne laboratórios interativos desenvolvidos como material didático complementar para o ensino de Mecânica dos Sólidos.
+Este repositório reúne materiais didáticos interativos desenvolvidos para complementar o ensino de Mecânica dos Sólidos.
 
-O objetivo é integrar a fundamentação teórica à experimentação computacional, permitindo que os estudantes explorem o comportamento mecânico de barras e estruturas, investiguem a influência de carregamentos, geometria e propriedades dos materiais e interpretem criticamente os resultados.
+A proposta é integrar a fundamentação teórica à exploração computacional, permitindo que os estudantes investiguem o comportamento mecânico de sólidos e estruturas, compreendam a influência dos carregamentos, da geometria e das propriedades dos materiais e interpretem criticamente os resultados.
 
-Os laboratórios combinam deduções matemáticas, visualizações, cálculos interativos e problemas de engenharia.
+Os materiais combinam deduções matemáticas, soluções analíticas, visualizações interativas e aplicações de engenharia.
 
-## Laboratórios disponíveis
+## Estudos disponíveis
 
-### Laboratório 1 — Vigas de perfil I
+### 1. Tensões em vigas de perfil I
 
-Estudo da influência da geometria da seção transversal na distribuição de tensões normais e cisalhantes em vigas.
+Investigação da influência da geometria da seção transversal sobre os momentos de inércia e a distribuição de tensões normais e cisalhantes em vigas.
 
-O laboratório permite investigar momentos de inércia, tensões de flexão, a fórmula de Jourawski e a eficiência estrutural dos perfis I.
+O estudo aborda a flexão, a fórmula de Jourawski e a eficiência estrutural dos perfis I, incluindo a influência da distribuição de material na seção transversal.
 
-**[Acessar Laboratório 1 — Perfil I](https://fpduda.github.io/perfil-i.html)**
+**[Acessar estudo — Perfil I](https://fpduda.github.io/perfil-i.html)**
 
-### Laboratório 2 — Das tensões aos deslocamentos
+### 2. Das tensões aos deslocamentos
 
 Estudo da relação entre tensões, deformações e deslocamentos em barras submetidas a esforço normal, torção circular e flexão pura.
 
-A partir de soluções tridimensionais da elasticidade, são identificadas as grandezas cinemáticas fundamentais das teorias clássicas de barras e vigas, incluindo alongamento, rotação das seções transversais e deflexão.
+Partindo de soluções tridimensionais da elasticidade linear, são obtidos os campos de deslocamentos e identificadas as grandezas cinemáticas fundamentais das teorias de barras e vigas, como alongamento, rotação das seções transversais e deflexão.
 
-**[Acessar Laboratório 2 — Das tensões aos deslocamentos](https://fpduda.github.io/deslocamentos.html)**
+**[Acessar estudo — Das tensões aos deslocamentos](https://fpduda.github.io/deslocamentos.html)**
 
-### Laboratório 3 —Da solução elástica à d ecisão de engenharia
+### 3. Da solução elástica à decisão de engenharia
 
-Aplicação das relações fundamentais da Mecânica dos Sólidos a problemas de engenharia que envolvem equilíbrio, compatibilidade, condições de contorno e dimensionamento.
+Aplicação dos fundamentos da Mecânica dos Sólidos a problemas que envolvem equilíbrio, compatibilidade, condições de contorno e dimensionamento.
 
-O laboratório apresenta quatro estudos de caso:
+São considerados quatro problemas:
 
 1. Tirante composto hiperestático, submetido a carregamentos mecânicos e térmicos.
 2. Eixo circular entre engastes, com torque aplicado na união de dois trechos.
 3. Viga simplesmente apoiada, submetida a carregamentos distribuídos e concentrados.
-4. Viga engastada-apoiada, estaticamente indeterminada, analisada por meio da equação diferencial de quarta ordem.
+4. Viga engastada-apoiada, estaticamente indeterminada, analisada pela equação diferencial de quarta ordem.
 
 Os exemplos incluem soluções analíticas, diagramas de esforços internos, deslocamentos, rotações e verificações de resistência e rigidez.
 
-**[Acessar Laboratório 3 — Aplicações de engenharia](https://fpduda.github.io/aplicacoes.html)**
+**[Acessar estudo — Aplicações de engenharia](https://fpduda.github.io/aplicacoes.html)**
+
+### 4. Mecânica dos Sólidos em instrumentos de precisão
+
+Exploração de aplicações da Mecânica dos Sólidos em instrumentos científicos capazes de medir forças e deslocamentos extremamente pequenos.
+
+O estudo começa com dois exemplos fundamentados nas teorias clássicas de barras e vigas:
+
+1. **Balança de torção:** medição de momentos muito pequenos a partir da rotação elástica de um fio, com referência ao experimento de Cavendish e à determinação da constante gravitacional.
+2. **Microscopia de força atômica (AFM):** utilização da flexão de um cantiléver microscópico para investigar interações entre uma ponta e uma superfície.
+
+Uma seção complementar apresenta aplicações mais avançadas:
+
+3. **Contato elástico e nanoindentação:** soluções de Hertz e Sneddon e determinação de propriedades mecânicas por indentação.
+4. **Pinças ópticas e mecânica celular:** investigação da resposta mecânica de células e materiais biológicos mediante a aplicação de forças extremamente pequenas.
+
+O material inclui referências históricas, conexões com descobertas reconhecidas pelo Prêmio Nobel, deduções matemáticas, simulações interativas e perguntas acompanhadas de explicações físicas.
+
+**[Acessar estudo — Instrumentos de precisão](https://fpduda.github.io/instrumentos.html)**
 
 ## Proposta didática
 
-Os materiais procuram estimular uma compreensão da Mecânica dos Sólidos que vá além da aplicação direta de fórmulas.
+Os materiais procuram desenvolver uma compreensão da Mecânica dos Sólidos que vá além da aplicação direta de fórmulas.
 
-A abordagem enfatiza a relação entre:
+A abordagem enfatiza a conexão entre:
 
 - Equações de equilíbrio;
 - Relações constitutivas;
 - Cinemática das deformações;
 - Condições de contorno e compatibilidade;
 - Soluções matemáticas e sua interpretação física;
-- Aplicações e decisões de engenharia.
+- Aplicações de engenharia e técnicas modernas de medição.
 
-Os laboratórios podem ser utilizados como material de estudo, apoio às aulas e atividades investigativas.
+Um dos objetivos é mostrar que **conceitos fundamentais da Mecânica dos Sólidos continuam presentes em tecnologias avançadas**, desde estruturas convencionais até instrumentos que permitem investigar a matéria nas escalas microscópica e nanométrica.
+
+Os estudos podem ser utilizados como material complementar às aulas, apoio ao estudo individual e ponto de partida para atividades investigativas.
 
 ---
 
 **Mecânica dos Sólidos — Universidade Federal do Rio de Janeiro**
 
+*Material didático desenvolvido por Fernando Pereira Duda.*
 *Material didático desenvolvido por Fernando Pereira Duda.*
